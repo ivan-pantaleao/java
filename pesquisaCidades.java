@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-  public class Cidades {
+  public class pesquisaCidades {
     private String nome;
     private int identificador;
     private int qtdeVeiculos;
